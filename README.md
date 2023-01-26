@@ -28,7 +28,8 @@ with open("MyFile2.txt","w") as fp1:
     fp1.write(x)
 ```
 ### OUTPUT:
-![output](cpy.jpg)
+![cpy](https://user-images.githubusercontent.com/119404460/214833312-565d015d-2143-47d6-a9b5-a9ffed8c30ef.jpg)
+
 
 
 ## RESULT:
